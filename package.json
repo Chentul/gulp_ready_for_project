@@ -1,0 +1,22 @@
+{
+  "name": "ezetrip",
+  "version": "1.0.0",
+  "description": "Agencia de viajes",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicente Spencer Noriega Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp-cssmin": "^0.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "uglify": "^0.1.5"
+  }
+}
